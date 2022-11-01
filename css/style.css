@@ -1,0 +1,50 @@
+.wraper {
+    color: rgb(212, 10, 10);
+}
+p {
+    margin: 10px;
+    padding: 10px;
+    background: rgb(79, 79, 195);
+    color: white;
+    border-radius: 10px;
+    max-width: 300px;
+    text-align: center;
+}
+
+/* .colored {
+    color: rgb(114, 246, 114);
+    background: rgb(11, 82, 113);
+} */
+
+/* .decoration {
+    text-decoration: line-through;
+}
+.colored {
+    color: red;
+}
+.bold {
+    font-weight: 700;
+} */
+
+/* .Visibility {
+    display: none;
+} */
+
+/* .borderRed {
+    border: 1px solid red;
+} */
+
+.colored {
+    color: rgb(22, 154, 22);
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
